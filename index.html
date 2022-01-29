@@ -18,24 +18,24 @@
                 <input id="adults" type="number" placeholder="N° de Adultos">
                 <input id="kids" type="number" placeholder="N° de Crianças">
                 <input id="duration" type="number" placeholder="Duração ( h )">
-                <button id="calculete-button">Calcular</button>
-                <button id="clear-button">Limpar</button>
-                <div class="result">
+                <button id="calculete-button" onclick="calc()">Calcular</button>
+                <button id="clear-button" onclick="reset()">Limpar</button>
+                <div class="result" id="result">
                     <p>Você vai precisar de:</p>
                     <div class="result-container">
                         <div class="meat">
                             <img src="./image/meat.png">
-                            <p id="meat"> 0 kg de carne</p>
+                            <p id="meat"></p>
                         </div>
                         <div class="beer">
                             <img src="./image/beer.png">
-                            <p >0 L de cerveja</p>
+                            <p id="beer"></p>
                         </div>
                         <div class="coke">
                             <img src="./image/coke.png">
-                            <p id="coke"> 0 L de refrigerante</p>
+                            <p id="coke"></p>
                         </div>
-                        <button>voltar</button>
+                        <button id="back" onclick="back()">voltar</button>
                     </div>
                 </div>
             </div> 
