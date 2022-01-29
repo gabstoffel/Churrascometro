@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Churrascômetro</title>
+</head>
+<body>
+    <div class="main-container">
+        <div class="background-container">
+            <div class="calculator-container">
+                <p>Churrascômetro</p>
+                <input id="adults" type="number" placeholder="N° de Adultos">
+                <input id="kids" type="number" placeholder="N° de Crianças">
+                <input id="duration" type="number" placeholder="Duração ( h )">
+                <button id="calculete-button">Calcular</button>
+                <button id="clear-button">Limpar</button>
+                <div class="result">
+                    <p>Você vai precisar de:</p>
+                    <div class="result-container">
+                        <div class="meat">
+                            <img src="./image/meat.png">
+                            <p id="meat"> 0 kg de carne</p>
+                        </div>
+                        <div class="beer">
+                            <img src="./image/beer.png">
+                            <p >0 L de cerveja</p>
+                        </div>
+                        <div class="coke">
+                            <img src="./image/coke.png">
+                            <p id="coke"> 0 L de refrigerante</p>
+                        </div>
+                        <button>voltar</button>
+                    </div>
+                </div>
+            </div> 
+        </div>
+        <div class="content">
+            <p>Calcule a quantidade de carne, de cerveja e de refrigerante para o seu churrasco !</p>
+            <img src="./image/image.png">
+        </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
