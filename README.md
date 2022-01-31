@@ -15,7 +15,9 @@
 
 <br>
 
-<p align="justify">        Projeto cujo objetivo é a construção de uma ferramenta para calcular a quantidade de comida e a de bebida necessária para um churrasco, levando em consideração a quantidade de adultos, de crianças e a duração do evento. Assim, foram adotados os seguintes parâmetros para o cálculo:
+
+<p align="justify">        
+   Projeto cujo objetivo é a construção de uma ferramenta para calcular a quantidade de comida e a de bebida necessária para um churrasco, levando em consideração a quantidade de adultos, de crianças e a duração do evento. Assim, foram adotados os seguintes parâmetros para o cálculo:
 
 - Carne: 400 g por pessoa para eventos de até 6 horas, passando de 6 horas, 650g.
 - Cerveja: 1200 ml por adulto para eventos de até 6 horas, passando de 6 horas, 2000 ml.
