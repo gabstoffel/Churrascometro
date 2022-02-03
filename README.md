@@ -37,6 +37,7 @@ Obs: Crianças valem por 0,5.
    <img src="https://user-images.githubusercontent.com/97189415/151869388-4fc9be62-5550-44cc-bce6-ea8d63097cc1.png">
 </div>
 
+
 ## :computer: Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
