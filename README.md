@@ -13,7 +13,7 @@
 </p>
 
 
-## :clipboard: Sobre o Projeto
+## :clipboard: Sobre o Projeto:
 
 <br>
 <br>
@@ -37,7 +37,7 @@ Obs: Crianças valem por 0,5
 </div>
 
 
-## :computer: Tecnologias utilizadas
+## :computer: Tecnologias utilizadas:
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -45,6 +45,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - CSS
 - JavaScript
 
-## :closed_book: Licença
+## :closed_book: Licença:
 
 Esse projeto está sob a licença MIT.
