@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-   Projeto desenvolvido no curso do ProgBR
+   Projeto desenvolvido no curso do ProgBR!
 </div>
 <br>
 <br>
