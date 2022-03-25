@@ -26,7 +26,7 @@
  
 <br>
 
-Obs: Crianças valem por 0,5
+Obs: Crianças valem por 0,5.
 </p>
 <br>
 <div align="center">
